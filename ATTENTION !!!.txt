@@ -1,0 +1,8 @@
+# impor database
+- (*klo blm punya db_psikolog) bikin database baru db_psikolog  -> klik impor -> pilih db_psikolog.sql
+- (*klo udah punya db_psikolog) masuk ke database db_psikolog  -> klik impor -> pilih db_psikolog.sql
+
+
+# Akun admin
+    peradminan
+    adminan
