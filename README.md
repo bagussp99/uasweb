@@ -10,7 +10,8 @@ simple crud website for final semester exams for web programming courses
 
 
 ## Demo
-<a href="https://bagussp99.github.io/uasweb/" target="_blank">**Visit Now** ✈️</a>
+<a href="https://bagussp99.000webhostapp.com/uasweb" target="_blank">**Visit Now** ✈️</a>
+<a href="https://bagussp99.000webhostapp.com/uasweb/admin" target="_blank">**Visit Now Admin Page** ✈️</a>
 
 ![website screenshot](demo.gif)
 
